@@ -1,4 +1,4 @@
-const cacheName = "X-VR-Estidama Scavenger-Hunt-1.0";
+const cacheName = "X-VR-Meet Nasser-1.0";
 const contentToCache = [
     "Build/test.loader.js",
     "Build/test.framework.js.unityweb",
